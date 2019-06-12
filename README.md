@@ -1,6 +1,6 @@
 **Want me to change something, consider something new, or make a statement? Put it in an "issue" on Github and I'll consider what you say for the next draft of this book. With community support, I can take this project a step further.**
 
-BTC: 19iv5J5V6TDQngBD6hKh9XxC9bpwDNpQFe**
+BTC: 19iv5J5V6TDQngBD6hKh9XxC9bpwDNpQFe
 
 You are about to step into the mind of a teenage hacker interested in the crossroads of information security, the human right to privacy, and mass surveillance efforts. This “book” was written during many late nights of my high school senior year in my bedroom, in solidarity, with a naïve passion; only now am I releasing it, years later. This book is not professional, nor is it a properly sourced whitepaper; however, this book is one-of-a-kind, and will further discussion for one particular question that I cannot answer: where do we draw the line between the right to privacy and national security efforts? Well, now, I pass the baton to you, other researchers who share this question; I hope you find some answers that you seek to answer this question.
 
